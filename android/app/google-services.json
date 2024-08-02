@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624412580196",
+    "project_id": "tewos-technology",
+    "storage_bucket": "tewos-technology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624412580196:android:68aa515518b5e101eb8271",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkv3ShAQcM6SxBAj1q_oe5M-sx4ilFinA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624412580196:android:d5f779cd716514c2eb8271",
+        "android_client_info": {
+          "package_name": "com.example.tewosmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkv3ShAQcM6SxBAj1q_oe5M-sx4ilFinA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
