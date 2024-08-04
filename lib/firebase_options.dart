@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyDwIrHwUJ9Di_tjUiDXte6q0yTrSdQFB0A',
-    appId: '1:624412580196:web:eae8ec906abd192ceb8271',
+    appId: '1:624412580196:web:77d582245da85ec8eb8271',
     messagingSenderId: '624412580196',
     projectId: 'tewos-technology',
     authDomain: 'tewos-technology.firebaseapp.com',
     storageBucket: 'tewos-technology.appspot.com',
-    measurementId: 'G-MG31RRR6H1',
+    measurementId: 'G-M6STFMR4DX',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAkv3ShAQcM6SxBAj1q_oe5M-sx4ilFinA',
-    appId: '1:624412580196:android:68aa515518b5e101eb8271',
+    appId: '1:624412580196:android:9d760a4be43b584feb8271',
     messagingSenderId: '624412580196',
     projectId: 'tewos-technology',
     storageBucket: 'tewos-technology.appspot.com',

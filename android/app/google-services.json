@@ -26,6 +26,25 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:624412580196:android:9d760a4be43b584feb8271",
+        "android_client_info": {
+          "package_name": "com.example.pay_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkv3ShAQcM6SxBAj1q_oe5M-sx4ilFinA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:624412580196:android:d5f779cd716514c2eb8271",
         "android_client_info": {
           "package_name": "com.example.tewosmobileapp"
