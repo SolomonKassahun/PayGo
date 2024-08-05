@@ -1,13 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
+import '../service/database.dart';
 import '../widget/category_widget.dart';
 import '../widget/home_state_widget.dart';
-
-class DatabaseMethods {
-  Stream<QuerySnapshot> getLocation() {
-    return FirebaseFirestore.instance.collection("paygo").snapshots();
-  }
-}
 
 class Homepage extends StatefulWidget {
   const Homepage({super.key});
@@ -32,7 +27,7 @@ class _HomepageState extends State<Homepage> {
         // if (!snapshot.hasData) {
         //   return const  Center(child: CircularProgressIndicator());
         // } else
-        
+
         if (snapshot.hasError) {
           return const Text("");
         } else {
